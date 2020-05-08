@@ -1,0 +1,4 @@
+Following attached the original databases which are selected and made change on:
+world.sql - https://dev.mysql.com/doc/index-other.html (see world database)
+movie.sql - https://dev.mysql.com/doc/index-other.html (see skill database) 
+music.sql - https://github.com/lerocha/chinook-database/blob/master/ChinookDatabase/DataSources/Chinook_MySql.sql
